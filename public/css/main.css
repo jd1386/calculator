@@ -116,7 +116,11 @@ body {
   font-size: 24px;
 }
 
-.cell:active, .cell:focus {
+.cell:active {
+  background-color: white;
+}
+
+.cell:focus {
   background-color: white;
 }
 
