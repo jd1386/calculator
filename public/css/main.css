@@ -118,10 +118,7 @@ body {
 
 .cell:active {
   background-color: white;
-}
-
-.cell:focus {
-  background-color: white;
+  -webkit-tap-highlight-color: white;
 }
 
 td#result {
