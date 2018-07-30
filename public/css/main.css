@@ -121,6 +121,10 @@ body {
   -webkit-tap-highlight-color: white;
 }
 
+.cell:target {
+  background-color: white;
+}
+
 td#result {
   font-size: 36px;
   font-weight: 800;
