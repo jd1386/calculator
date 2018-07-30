@@ -4,7 +4,7 @@
   "description": "One of the Codestate's Weekend Hackathon Projects",
   "main": "app.js",
   "scripts": {
-    "test": "node app.js"
+    "start": "node app.js"
   },
   "author": "Jungdo Lee & Minsoo Kim",
   "license": "ISC",
