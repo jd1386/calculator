@@ -114,14 +114,10 @@ body {
 
 .cell {
   font-size: 24px;
-}
-
-.cell:active {
-  background-color: white;
   -webkit-tap-highlight-color: white;
 }
 
-.cell:target {
+.cell:active {
   background-color: white;
 }
 
